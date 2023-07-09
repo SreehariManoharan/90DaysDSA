@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sreeharimanoharan
+ *
+ */
+module StringProject {
+}
