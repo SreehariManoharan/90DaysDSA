@@ -1,7 +1,11 @@
 package com.ds.recursion;
 
 import java.util.Arrays;
-
+/**
+ * Some comments are added to test the commit.
+ * @author sreeharimanoharan
+ *
+ */
 public class ReverseArray {
 
 	public static void main(String[] args) {
